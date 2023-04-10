@@ -1,0 +1,24 @@
+C:\Users\USER\Desktop\c# projeler\OtobüsFirmasıBiletUygulaması\OtobüsFirmasıBiletUygulaması\bin\Debug\OtobüsFirmasıBiletUygulaması.exe.config
+C:\Users\USER\Desktop\c# projeler\OtobüsFirmasıBiletUygulaması\OtobüsFirmasıBiletUygulaması\bin\Debug\OtobüsFirmasıBiletUygulaması.exe
+C:\Users\USER\Desktop\c# projeler\OtobüsFirmasıBiletUygulaması\OtobüsFirmasıBiletUygulaması\bin\Debug\OtobüsFirmasıBiletUygulaması.pdb
+C:\Users\USER\Desktop\c# projeler\OtobüsFirmasıBiletUygulaması\OtobüsFirmasıBiletUygulaması\obj\Debug\OtobüsFirmasıBiletUygulaması.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c# projeler\OtobüsFirmasıBiletUygulaması\OtobüsFirmasıBiletUygulaması\obj\Debug\OtobüsFirmasıBiletUygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\c# projeler\OtobüsFirmasıBiletUygulaması\OtobüsFirmasıBiletUygulaması\obj\Debug\OtobüsFirmasıBiletUygulaması.Form1.resources
+C:\Users\USER\Desktop\c# projeler\OtobüsFirmasıBiletUygulaması\OtobüsFirmasıBiletUygulaması\obj\Debug\OtobüsFirmasıBiletUygulaması.KayıtFormu.resources
+C:\Users\USER\Desktop\c# projeler\OtobüsFirmasıBiletUygulaması\OtobüsFirmasıBiletUygulaması\obj\Debug\OtobüsFirmasıBiletUygulaması.Properties.Resources.resources
+C:\Users\USER\Desktop\c# projeler\OtobüsFirmasıBiletUygulaması\OtobüsFirmasıBiletUygulaması\obj\Debug\OtobüsFirmasıBiletUygulaması.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\c# projeler\OtobüsFirmasıBiletUygulaması\OtobüsFirmasıBiletUygulaması\obj\Debug\OtobüsFirmasıBiletUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c# projeler\OtobüsFirmasıBiletUygulaması\OtobüsFirmasıBiletUygulaması\obj\Debug\OtobüsFirmasıBiletUygulaması.exe
+C:\Users\USER\Desktop\c# projeler\OtobüsFirmasıBiletUygulaması\OtobüsFirmasıBiletUygulaması\obj\Debug\OtobüsFirmasıBiletUygulaması.pdb
+C:\Users\USER\Desktop\OtobüsFirmasıBiletUygulaması\OtobüsFirmasıBiletUygulaması\bin\Debug\OtobüsFirmasıBiletUygulaması.exe.config
+C:\Users\USER\Desktop\OtobüsFirmasıBiletUygulaması\OtobüsFirmasıBiletUygulaması\bin\Debug\OtobüsFirmasıBiletUygulaması.exe
+C:\Users\USER\Desktop\OtobüsFirmasıBiletUygulaması\OtobüsFirmasıBiletUygulaması\bin\Debug\OtobüsFirmasıBiletUygulaması.pdb
+C:\Users\USER\Desktop\OtobüsFirmasıBiletUygulaması\OtobüsFirmasıBiletUygulaması\obj\Debug\OtobüsFirmasıBiletUygulaması.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\OtobüsFirmasıBiletUygulaması\OtobüsFirmasıBiletUygulaması\obj\Debug\OtobüsFirmasıBiletUygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\OtobüsFirmasıBiletUygulaması\OtobüsFirmasıBiletUygulaması\obj\Debug\OtobüsFirmasıBiletUygulaması.Form1.resources
+C:\Users\USER\Desktop\OtobüsFirmasıBiletUygulaması\OtobüsFirmasıBiletUygulaması\obj\Debug\OtobüsFirmasıBiletUygulaması.KayıtFormu.resources
+C:\Users\USER\Desktop\OtobüsFirmasıBiletUygulaması\OtobüsFirmasıBiletUygulaması\obj\Debug\OtobüsFirmasıBiletUygulaması.Properties.Resources.resources
+C:\Users\USER\Desktop\OtobüsFirmasıBiletUygulaması\OtobüsFirmasıBiletUygulaması\obj\Debug\OtobüsFirmasıBiletUygulaması.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\OtobüsFirmasıBiletUygulaması\OtobüsFirmasıBiletUygulaması\obj\Debug\OtobüsFirmasıBiletUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\OtobüsFirmasıBiletUygulaması\OtobüsFirmasıBiletUygulaması\obj\Debug\OtobüsFirmasıBiletUygulaması.exe
+C:\Users\USER\Desktop\OtobüsFirmasıBiletUygulaması\OtobüsFirmasıBiletUygulaması\obj\Debug\OtobüsFirmasıBiletUygulaması.pdb
